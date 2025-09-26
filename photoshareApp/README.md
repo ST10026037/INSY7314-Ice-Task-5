@@ -1,2 +1,0 @@
-# photoshareApp
-Photo sharing app
